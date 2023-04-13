@@ -1,4 +1,4 @@
-+++
+···
 title = "PyQt-Ui"          
 author = "Loader"              
 slug = "natural-native-gradient-rainbow-header" 
@@ -6,7 +6,7 @@ date = "2023-04-12"
 gitinfo = true
 mermaid = true
 mathjax = true
-+++
+···
 
 
 
