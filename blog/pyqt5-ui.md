@@ -1,15 +1,3 @@
-···
-title = "PyQt-Ui"          
-author = "Loader"              
-slug = "natural-native-gradient-rainbow-header" 
-date = "2023-04-12"            
-gitinfo = true
-mermaid = true
-mathjax = true
-···
-
-
-
 ### PyQt5  两种加载ui方式的优缺点
 
 本人使用pyqt5中，发现有两种方式加载ui文件，研究了一下各自的优缺点。
